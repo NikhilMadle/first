@@ -1,3 +1,3 @@
 # first
-this is my first repositery.
-author: nikhil madle
+This is my first repositery.
+Author: Nikhil 
